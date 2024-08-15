@@ -22,7 +22,7 @@ Key Activites:
 * Integrate secure payment gateways and develop a streamlined shopping cart and checkout process, ensuring user transactions are secure, efficient, and reliable, with clear order management and tracking features.
 * Create a responsive, user-friendly interface optimized for both desktop and mobile devices, ensuring a consistent and intuitive shopping experience across all platforms, with an emphasis on security and data protection.
 
-##Technologies Used 
+Technologies Used 
 * MongoDB : Stores all product, user, and order data, enabling scalable and flexible data management.
 * Express.js: Handles server-side logic, routing, API requests, and integrates with MongoDB for data operations.
 * React.js: Powers the frontend, providing a dynamic and responsive user interface for browsing, cart management, and checkout.
